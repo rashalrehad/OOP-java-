@@ -3,9 +3,9 @@ public class main {
         Student student = new Student();
 
         student.setStudentID("CU12345");
-        student.setName("Ali");
+        student.setName("Rehad");
         student.setCGPA(3.75);
-        student.setProgramme("BIT");
+        student.setProgramme("BCSSE");
 
         System.out.println("Student ID : " + student.getStudentID());
         System.out.println("Name       : " + student.getName());
